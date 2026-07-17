@@ -28,5 +28,5 @@
 
 **Contact**
   LinkedIn: https://www.linkedin.com/in/naved-malek/
-  GitHub: 
+  GitHub: https://github.com/naved0521
   Email: navedmalek03@gmail.com
