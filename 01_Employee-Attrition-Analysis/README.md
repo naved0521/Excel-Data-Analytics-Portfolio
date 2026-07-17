@@ -119,23 +119,22 @@ Through this project, I improved my skills in:
 
 ## 📁 Flow-Diagram
 
-**Raw CSV Dataset
-        ↓
-Converted to Excel (.xlsx)
-        ↓
-Data Cleaning
-        ↓
-Data Validation
-        ↓
-Data Transformation
-        ↓
-Pivot Tables
-        ↓
-KPIs
-        ↓
-Charts
-        ↓
-Interactive Dashboard
-        ↓
-Business Insights
-**
+                Raw CSV Dataset
+                      ↓
+          Converted to Excel (.xlsx)
+                      ↓
+                Data Cleaning
+                      ↓
+               Data Validation
+                      ↓
+             Data Transformation
+                      ↓
+                Pivot Tables
+                      ↓
+                     KPIs
+                      ↓
+                    Charts
+                      ↓
+            Interactive Dashboard
+                      ↓
+              Business Insights
