@@ -1,4 +1,4 @@
-# Employee Attrition Analysis using Microsoft Excel
+# Employee Attrition and Workforce Analysis using Microsoft Excel
 
 ## 📌 Project Overview
 
