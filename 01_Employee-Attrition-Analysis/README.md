@@ -93,8 +93,8 @@ The dataset was analyzed using:
 
 ## 📸 Dashboard Preview
 
-01_Employee-Attrition-Analysis/SS_01.png
-01_Employee-Attrition-Analysis/SS_02.png
+!01_Employee-Attrition-Analysis/SS_01.png
+!01_Employee-Attrition-Analysis/SS_02.png
 
 ---
 
